@@ -22,7 +22,7 @@ Performs reasoning over the initial candidate set and computes the relevant expe
 
 We provide a small, preprocessed example dataset named `data_examples`, which contains 10 pairs of entities. This dataset includes `name.txt`, `att.txt`, and `rel.txt`, and can be directly used to run `preprocess.py`.
 
-In addition, we also provide a preprocessed initial candidate set containing 500 pairs of entities in `candidates`, which can be directly used by `reasoning.py` for inference (the runtime is approximately 10 minutes). These datasets are intended to help users better understand the data formats required by AgentEA and the overall execution pipeline.
+In addition, we also provide a preprocessed initial candidate set containing 500 pairs of entities in `candidates_examples`, which can be directly used by `reasoning.py` for inference (the runtime is approximately 10 minutes). These datasets are intended to help users better understand the data formats required by AgentEA and the overall execution pipeline.
 
 All datasets used in our experiments are standard benchmarks commonly adopted in the entity alignment community. Their sources are listed below:
 
