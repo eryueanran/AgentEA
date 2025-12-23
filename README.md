@@ -9,13 +9,13 @@ Anonymous
 
 This section describes the execution order and functionality of the main scripts in the project:
 
-1. **Preprocess.py**
+1. **Preprocess.py**:
 Data preprocessing. This script translates entity names into English and summarizes entity-related information.
-2. **Embedding.py**
+2. **Embedding.py**:
 Generates embeddings for the processed entity information.We use [LLM2Vec](https://github.com/McGill-NLP/llm2vec) to convert a pretrained language model into an efficient text encoder.
-3. **Build_cand.py**
+3. **Build_cand.py**:
 Constructs an initial candidate set based on the embedding results, and prepares the corresponding entity information for use in the subsequent reasoning stage.
-4. **Reasoning.py**
+4. **Reasoning.py**:
 Performs reasoning over the initial candidate set and computes the relevant experimental metrics.
 
 ## Dataset Description
