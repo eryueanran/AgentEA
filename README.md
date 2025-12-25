@@ -26,7 +26,7 @@ In addition, we also provide a preprocessed initial candidate set containing 500
 
 All datasets used in our experiments are standard benchmarks commonly adopted in the entity alignment community. Their sources are listed below:
 
-- **DBP15K**: [Link](https://github.com/kosugi11037/bert-int)
-- **SRPRS**: [Link](https://github.com/DexterZeng/CEA)
-- **ICEWS**: [Link](https://github.com/DataArcTech/Simple-HHEA)
-- **DWY**: [Link](https://github.com/THUDM/SelfKG)
+1. **DBP15K**: [Link](https://github.com/kosugi11037/bert-int)
+2. **SRPRS**: [Link](https://github.com/DexterZeng/CEA)
+3. **ICEWS**: [Link](https://github.com/DataArcTech/Simple-HHEA)
+4. **DWY**: [Link](https://github.com/THUDM/SelfKG)
