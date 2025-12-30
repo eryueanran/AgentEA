@@ -1,9 +1,4 @@
-# Publication
-
-## AgentEA: Multi-Agent Debate for Reliable Entity Alignment
-Anonymous
- 
-# AgentEA: Overview and Usage
+# AgentEA: Multi-Agent Debate for Reliable Entity AlignmentOverview and Usage
 
 ## Code Description
 
