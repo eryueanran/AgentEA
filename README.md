@@ -1,4 +1,4 @@
-# AgentEA: Multi-Agent Debate for Reliable Entity Alignment
+# Debate to Align: Reliable Entity Alignment through Two-Stage Multi-Agent Debate
 
 ## Code Description
 
